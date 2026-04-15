@@ -1,14 +1,14 @@
-name: "Devon's Blog"
-description: "Devon的个人博客"
+name: "Nicholas's Journal Pribadi"
+description: "Seorang Filsuf Yang cinta akan kebijaksanaan"
 
 avatar: https://devon018.github.io/images/cat-modified.png
 
 navigation:
-  - name: 首页
+  - name: home
     url: /
-  - name: 关于
+  - name: about
     url: /about
-  - name: 分类
+  - name: tags
     url: /tags
 
 paginate: 8
@@ -17,14 +17,14 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: huangdihong@sjtu.edu.cn
+  email: nikisecexploit@gmail.com
   facebook:
-  github: Devon018
+  github: 
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Devon
+footer-text: Copyright (c) 2026 Nicholas
 
 url: https://devon018.github.io
 
