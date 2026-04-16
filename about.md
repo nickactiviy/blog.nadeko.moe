@@ -11,7 +11,7 @@ Saat ini saya juga mengembangkan ilmu Daoisme dan Mohisme
 
 Saya tidak pandai dalam ilmu akademi/sekolah terutama matematika tapi sebagai gantinya saya dapat berfikir sendiri membuat ilmu saya sendiri, tapi ada kelemahannya yaitu saya kesulitan berbicara saat mendeskripsikan isi fikiran saya maka sebab itu journal ini dibuat
 
-Ilmu tambahan yang saya kembangkan beserta argumen berasal dari sudut pandang saya kilas balik kejadian dan informasi dunia dan alam dengan teknologi 
+Ilmu tambahan yang saya kembangkan beserta argumen berasal dari sudut pandang saya kilas balik kejadian dan informasi dunia dan alam dari berita dan informasi lainnya 
 ini juga dapat membantu saya mengetahui siapa aja orang yang menyinggung saya dengan merekap beberapa kejadian suara kecil,subjek dan objek yang dituju 
 
 Ini adalah blog pribadi saya, yang dibuat untuk mencatat pembelajaran dan wawasan saya, atau untuk memperkenalkan catatan yang telah saya kerjakan.
